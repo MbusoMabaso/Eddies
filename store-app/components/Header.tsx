@@ -48,7 +48,7 @@ export function Header({ onOpenMenu }: HeaderProps) {
             color: theme.mode === 'dark' ? '#8000ff' : '#8000ff',
           }}
         >
-          EDDIES
+          E⚡ECTRO
         </ThemedText>
       </View>
       <View style={styles.flex} />

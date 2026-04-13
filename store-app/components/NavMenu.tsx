@@ -16,6 +16,7 @@ export function NavMenu({ visible, onClose }: NavMenuProps) {
     { label: 'Contact', path: '/contact' },
     { label: 'New Arrivals', path: '/new-arrivals' },
     { label: 'Clearance', path: '/clearance' },
+    { label: 'My Listings', path: '/my-listings' },
   ];
 
   const theme = React.useContext(ThemeContext);
